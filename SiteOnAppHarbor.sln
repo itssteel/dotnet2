@@ -1,0 +1,36 @@
+
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "SiteOnAppHarbor", ".\", "{E4D7B617-E6BC-478C-A2C3-F2678BEC5201}"
+  ProjectSection(WebsiteProperties) = preProject
+		TargetFramework = "3.5"
+		Debug.AspNetCompiler.VirtualPath = "/SiteOnAppHarbor"
+		Debug.AspNetCompiler.PhysicalPath = ".\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\SiteOnAppHarbor\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/SiteOnAppHarbor"
+		Release.AspNetCompiler.PhysicalPath = ".\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\SiteOnAppHarbor\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "1039"
+		DefaultWebSiteLanguage = "Visual Basic"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4D7B617-E6BC-478C-A2C3-F2678BEC5201}.Debug|.NET.ActiveCfg = Debug|.NET
+		{E4D7B617-E6BC-478C-A2C3-F2678BEC5201}.Debug|.NET.Build.0 = Debug|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
